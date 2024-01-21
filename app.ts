@@ -1,3 +1,3 @@
-import screenshotTaker from "./lib/shoter";
+import screenshotTaker from "./lib/scrapper";
 
-screenshotTaker("https://www.pinksale.finance/launchpads?chain=ETH");
+screenshotTaker();
